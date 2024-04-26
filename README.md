@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate mern stack developer from India.</h3>
+<h3 align="center">A passionate mern stack developer diping my toes into the world of Blockchain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanlabh&label=Profile%20views&color=0e75b6&style=flat" alt="amanlabh" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [webinpost](https://github.com/Amanlabh?tab=repositories)
 
-- 👨‍🍳 I’m currently learning **Django, flask, Dart.**
+- 👨‍🍳 I’m currently learning **Web3, react, Flutter, Mern.**
 
 - 👯 I’m looking to collaborate on **anything you offer!**
 
-- 🤝 I’m looking for help with **Open source projects.**
+- 🤝 I’m looking for help with **Blockchain.**
 
 - 👨‍💻 All of my projects are available at [my github repo](my github repo)
 
