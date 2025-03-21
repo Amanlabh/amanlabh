@@ -7,19 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/hackaman4" target="blank"><img src="https://img.shields.io/twitter/follow/hackaman4?logo=twitter&style=for-the-badge" alt="hackaman4" /></a> </p>
 
-- 🔭 I’m currently working on [webinpost](https://github.com/Amanlabh?tab=repositories)
 
-- 👨‍🍳 I’m currently learning **Web3, react, Flutter, Mern.**
+- 👨‍🍳 I’m currently Focusing on Product Engineering**
 
-- 👯 I’m looking to collaborate on **anything you offer!**
-
-- 🤝 I’m looking for help with **Blockchain.**
-
-- 👨‍💻 All of my projects are available at [my github repo](my github repo)
-
-- Interact with my chatbot🤖 [amanchatbot.netlify.app](amanchatbot.netlify.app)
-
-- 📫 How to reach me **amanlabh4@gmail.com**
+- 📫 How to reach me **hey@amanlabh.me**
 
 - ⚡ Fun fact **I like creating things on internet**
 
