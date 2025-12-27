@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">
-  A passionate Full Stack Developer dipping my toes into the world of Blockchain
+  A passionate Full Stack Developer dipping my toes into AI/ML
 </h3>
 
 <p align="center">
@@ -16,17 +16,19 @@
 ---
 
 ### 👨‍🍳 About Me
-- 🔭 Currently focusing on **Product Engineering**
+- 🔭 Currently focusing on **Data and Automation Engineering**
 - 🌱 Exploring **Blockchain & Web3**
-- 📫 Reach me at **hey@amanlabh.me**
 - ⚡ Fun fact: **I love creating things on the internet**
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="left">
+### 🏆 GitHub Trophies
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanlabh&margin-w=10" alt="amanlabh" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=amanlabh&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7"
+      alt="amanlabh"
+    />
   </a>
 </p>
 
@@ -43,6 +45,10 @@
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 
+<!-- Mobile -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+
 <!-- Backend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
@@ -54,14 +60,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
 
+<!-- Backend as a Service -->
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
+
 <!-- DevOps & Cloud -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 
-<!-- Mobile & Game -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
+<!-- Game Dev -->
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
 
 <!-- Blockchain / Web3 -->
