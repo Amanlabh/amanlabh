@@ -33,6 +33,12 @@
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-111827?style=flat&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/GCP-111827?style=flat&logo=googlecloud)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat&logo=supabase)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat&logo=scikitlearn)
 
 ## What I'm Working On
 <!--START_SECTION:activity-->
