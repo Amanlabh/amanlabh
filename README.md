@@ -1,18 +1,18 @@
 # Aman Labh
 
-**Full Stack Developer** focused on building reliable web apps and automation workflows. Exploring AI/ML and blockchain.
+**Full Stack Developer** focused on building reliable web apps and automation workflows, Building scalable systems.
 
 [![Profile views](https://komarev.com/ghpvc/?username=amanlabh&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/amanlabh)
 
 ## About
-- Currently focused on **Data & Automation Engineering**
-- Exploring **Blockchain & Web3**
+- Currently focused on **Fullstack Development, Data & Automation Engineering**
+- Exploring **AI and CLoud infrastuctures**
 - Enjoys turning ideas into polished products
 
 ## Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, Angular, Tailwind CSS
+**Frontend:** HTML, CSS, JavaScript, React, Angular, Tailwind CSS, Typescript
 
-**Mobile:** Android, Flutter
+**Mobile:** Android, Flutter, React Native
 
 **Backend:** Node.js, Django, Flask, Python
 
